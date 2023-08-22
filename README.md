@@ -1,4 +1,2 @@
 # Number_Identifier
-just started uploding in the github 
-my first project on digit and letter recognition based on Tensorflow library
-this first code main.ipynb is on digit recognition
+Digit recognition based on Tensorflow library @main.ipynb is on digit recognition of consecutive numbers and @extract image.ipynb on taking digit out of a image such as @new_1.png
