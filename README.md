@@ -1,2 +1,2 @@
 # Number_Identifier
-Digit recognition based on Tensorflow library @main.ipynb is on digit recognition of consecutive numbers and @extract image.ipynb on taking digit out of a image such as @new_1.png
+Image based Digit recognition based on Tensorflow library. /main.ipynb is on digit recognition of three consecutive numbers in same image and @extract image.ipynb on taking digit out of such an image. for this code its varified using @new_1.png image.
